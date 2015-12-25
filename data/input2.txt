@@ -1,5 +1,0 @@
-2013-05-13	00:00:05,190	-	[INFO]	-	from	application	in	play-akka.actor.actions-dispatcher-48	[dhruv.bhargava@agilone.com]	[27]	[6fe8bf9d-ceaf-4a69-a262-7f6fbad74ec0] End	Action	-	GET	/	Time:	4ms
-2013-05-13	00:00:31,263	-	[INFO]	-	from	application	in	play-akka.actor.actions-dispatcher-48	[dhruv.bhargava@agilone.com]	[27]	[6fe8bf9d-ceaf-4a69-a262-7f6fbad74ec0] End	Action	-	GET	/v0/validateSession	Time:	5ms
-2013-05-13	00:01:01,469	-	[INFO]	-	from	application	in	play-akka.actor.actions-dispatcher-48	[dhruv.bhargava@agilone.com]	[27]	[6fe8bf9d-ceaf-4a69-a262-7f6fbad74ec0] End	Action	-	GET	/v0/validateSession	Time:	5ms
-2013-05-13	00:07:48,222	-	[INFO]	-	from	application	in	play-akka.actor.actions-dispatcher-48	[dhruv.bhargava@agilone.com]	[27]	[6fe8bf9d-ceaf-4a69-a262-7f6fbad74ec0] End	Action	-	POST	/1.0/tenant/53/upload	Time:	126ms
-2013-05-13	00:07:48,694	-	[INFO]	-	from	application	in	play-akka.actor.actions-dispatcher-48	[dhruv.bhargava@agilone.com]	[27]	[6fe8bf9d-ceaf-4a69-a262-7f6fbad74ec0] End	Action	-	POST	/1.0/tenant/53/upload	Time:	123ms
